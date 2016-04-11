@@ -1,3 +1,3 @@
 <?php
 
-echo "hoge";
+echo getenv('TEST_ENV');
